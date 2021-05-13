@@ -126,12 +126,32 @@ const Projects = () => {
                 <div className="card-body">
                   <h2 className="card-header">Playcation</h2>
                   <p className="card-text">
-                   
-                  {' '}
                   An app that uses Open Weather Map, Pixabay, and LastFM APIs to allow users to take virtual vacations to the location of their choice.
                   </p>
                 </div>
               </div>
+              <div className="col-md-4">
+              <div className="card h-100 mb-4">
+                <a
+                  href="https://github.com/freejonm/employeedirectory"
+                  target="_blank"
+                >
+                  <img
+                    className="card-img-top active"
+                    // src="assets/Images/employee-trk-demo.gif"
+                    alt=""
+                  />{' '}
+                </a>
+                <div className="card-body">
+                  <h2 className="card-header">Employee Directory</h2>
+                  <p className="card-text">
+                   
+                  {' '}
+                  A React app that allows users to view a list of employees/users and filter or sort that list by last name.
+                  </p>
+                </div>
+              </div>
+            </div>
             </div>
             </div>
             </div>
