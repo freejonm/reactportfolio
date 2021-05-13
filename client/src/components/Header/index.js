@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="container mb-0">
     <nav className="navbar fixed-top navbar-expand-lg navbar-custom">
-      <h2 className="navbar-brand">Jared Weaver</h2>
+      <h2 className="navbar-brand">Jon Free</h2>
       <div>
         <a href="https://www.linkedin.com/in/jonathon-free/" target="_blank"><i className="fab fa-linkedin-in fa-sm"></i></a>  
         <a href="https://github.com/freejonm" target="_blank"><i className="fab fa-github fa-xs"></i></a>
