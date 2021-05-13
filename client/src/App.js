@@ -10,10 +10,10 @@ function App() {
   return (
     <div>
       <Header />
-      <Router>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/projects" component={Projects} />
-        <Route exact path="/contact" component={Contact} />
+      <Router basename={process.env.PUBLIC_URL}>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/projects" component={Projects} />
+          <Route exact path="/contact" component={Contact} />
       </Router>
       <Footer />
     </div>

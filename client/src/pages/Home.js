@@ -32,7 +32,7 @@ const Home = () => {
                 </a>
                 <a
                   className="btn btn-secondary btn-lg btn-block"
-                  href="contact.html"
+                  href="/contact"
                   role="button"
                 >
                   Contact Me
