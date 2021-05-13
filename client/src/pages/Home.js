@@ -81,6 +81,8 @@ const Home = () => {
                         <td>Bootstrap</td>
                         <td>Tailwind</td>
                         <td>Material-ui</td>
+                      </tr>
+                      <tr> 
                         <td>
                           Node JS
                         </td>

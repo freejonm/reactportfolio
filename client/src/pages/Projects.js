@@ -7,7 +7,7 @@ const Projects = () => {
         <Jumbotron  />
         <section className="container-fluid gif-section">
           <div className="row mt-0 mb-0">
-          <div className="col-md-4">
+            <div className="col-md-4">
               <div className="card h-100 mb-4">
                 <a
                   href="https://github.com/freejonm/mentor.me"
@@ -34,7 +34,9 @@ const Projects = () => {
                     .
                   </p>
                 </div>
-                <div className="col-md-4">
+              </div>
+              </div>
+              <div className="col-md-4">
               <div className="card h-100 mb-4">
                 <a
                   href="https://github.com/freejonm/allthemovies"
@@ -52,6 +54,7 @@ const Projects = () => {
                     Uses OMDB API to allow users to save reviews of movies they've watched. 
                   </p>
                 </div>
+              </div>
               </div>
               <div className="col-md-4">
               <div className="card h-100 mb-4">
@@ -80,6 +83,7 @@ const Projects = () => {
                     .
         
                   </p>
+                </div>
                 </div>
               </div>
               <div className="col-md-4">
@@ -111,6 +115,7 @@ const Projects = () => {
                   </p>
                 </div>
               </div>
+              </div>
               <div className="col-md-4">
               <div className="card h-100 mb-4">
                 <a
@@ -129,6 +134,7 @@ const Projects = () => {
                   An app that uses Open Weather Map, Pixabay, and LastFM APIs to allow users to take virtual vacations to the location of their choice.
                   </p>
                 </div>
+              </div>
               </div>
               <div className="col-md-4">
               <div className="card h-100 mb-4">
@@ -151,12 +157,6 @@ const Projects = () => {
                   </p>
                 </div>
               </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
             </div>
             </div>
         </section>
