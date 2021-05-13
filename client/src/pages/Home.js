@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
       <main>
-        {/* <Jumbotron imageBG="url(/assets/Images/IMG-9675.jpg)"/> */}
+        <Jumbotron imageBG="url(/assets/bluesky.jpg)"/>
 
         <div className="container-fluid mt-0 mb-0">
           <div className="row">
