@@ -1,5 +1,4 @@
 {
-  "homepage": "https://freejonm.github.io/reactportfolio/",
   "name": "react-portfolio",
   "description": "",
   "version": "1.0.0",
@@ -11,9 +10,7 @@
     "client": "cd client && npm run start",
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
-    "heroku-postbuild": "npm run build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "heroku-postbuild": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -24,15 +21,10 @@
   "bugs": {
     "url": "https://github.com/freejonm/reactportfolio/issues"
   },
-  
+  "homepage": "https://github.com/freejonm/reactportfolio#readme",
   "dependencies": {
-    "-": "^0.0.1",
     "concurrently": "^6.1.0",
     "express": "^4.17.1",
-    "if-env": "^1.0.4",
-    "save-dev": "^0.0.1-security"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "if-env": "^1.0.4"
   }
 }
