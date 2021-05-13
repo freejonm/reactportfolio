@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/freejonm/reactportfolio/issues"
   },
-  "homepage": "https://github.com/freejonm/reactportfolio",
+  "homepage": "https://github.com/freejonm/reactportfolio#readme",
   "dependencies": {
     "-": "^0.0.1",
     "concurrently": "^6.1.0",
