@@ -4,7 +4,7 @@ import Jumbotron from '../components/Jumbotron';
 const Contact = () => {
   return (
     <div>
-    <Jumbotron titleTop='Contact Me' />
+    <Jumbotron imageBG="url(/assets/bluesky.jpg)" />
       <main>
         <section>
           <div className="row">

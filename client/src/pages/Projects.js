@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div>
       <main>
-        <Jumbotron />
+        <Jumbotron imageBG="url(/assets/bluesky.jpg)" />
         <section className="container-fluid gif-section">
           <div className="row mt-0 mb-0">
             <div className="col-md-4">
