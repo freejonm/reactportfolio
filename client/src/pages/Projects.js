@@ -10,7 +10,7 @@ const Projects = () => {
           <div className="col-md-4">
               <div className="card h-100 mb-4">
                 <a
-                  href="https://github.com/JaredWeaver/Eat-Da-Burger"
+                  href="https://github.com/freejonm/mentor.me"
                   target="_blank"
                 >
                   <img
@@ -34,6 +34,26 @@ const Projects = () => {
                     .
                   </p>
                 </div>
+                <div className="col-md-4">
+              <div className="card h-100 mb-4">
+                <a
+                  href="https://github.com/freejonm/allthemovies"
+                  target="_blank"
+                >
+                  <img
+                    className="card-img-top active"
+                    // src="assets/Images/eat-da-burger-demo.gif"
+                    alt=""
+                  />
+                </a>
+                <div className="card-body">
+                  <h2 className="card-header">All the movies</h2>
+                  <p className="card-text">
+                    Uses OMDB API to allow users to save reviews of movies they've watched. 
+                  </p>
+                </div>
+              </div>
+            </div>
             </div>
             </div>
             </div>
