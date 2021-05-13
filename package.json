@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.io/freejonm/reactportfolio",
   "name": "react-portfolio",
   "description": "",
   "version": "1.0.0",
@@ -23,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/freejonm/reactportfolio/issues"
   },
-  "homepage": "https://github.io/freejonm/reactportfolio",
+  
   "dependencies": {
     "-": "^0.0.1",
     "concurrently": "^6.1.0",
