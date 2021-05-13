@@ -25,7 +25,7 @@ const Home = () => {
                 <h2 className="display-4 text-center">Links</h2>
                 <a
                   className="btn btn-secondary btn-lg btn-block"
-                  href="portfolio.html"
+                  href="/projects"
                   role="button"
                 >
                   Projects
