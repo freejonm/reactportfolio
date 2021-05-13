@@ -15,7 +15,7 @@ const Projects = () => {
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/subscriptionTracker.gif"
+                    src="assets/mentorme.png"
                     alt=""
                     
                   />
@@ -39,19 +39,19 @@ const Projects = () => {
               <div className="col-md-4">
               <div className="card h-100 mb-4">
                 <a
-                  href="https://github.com/freejonm/allthemovies"
+                  href="https://github.com/freejonm/readmeGenerator"
                   target="_blank"
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/eat-da-burger-demo.gif"
+                    src="assets/readme.png"
                     alt=""
                   />
                 </a>
                 <div className="card-body">
-                  <h2 className="card-header">All the movies</h2>
+                  <h2 className="card-header">README generator</h2>
                   <p className="card-text">
-                    Uses OMDB API to allow users to save reviews of movies they've watched. 
+                    Uses node.js and Inquirerer to generate a professional README. 
                   </p>
                 </div>
               </div>
@@ -64,7 +64,7 @@ const Projects = () => {
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/employee-trk-demo.gif"
+                    src="assets/BTshot.png"
                     alt=""
                   />{' '}
                 </a>
@@ -94,7 +94,7 @@ const Projects = () => {
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/employee-trk-demo.gif"
+                    src="/assets/mediamunch.png"
                     alt=""
                   />{' '}
                 </a>
@@ -124,7 +124,7 @@ const Projects = () => {
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/employee-trk-demo.gif"
+                    src="assets/playcation.png"
                     alt=""
                   />{' '}
                 </a>
@@ -144,7 +144,7 @@ const Projects = () => {
                 >
                   <img
                     className="card-img-top active"
-                    // src="assets/Images/employee-trk-demo.gif"
+                    src="assets/empdir.png"
                     alt=""
                   />{' '}
                 </a>
