@@ -1,5 +1,6 @@
 import React from 'react';
 import Jumbotron from '../components/Jumbotron';
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -23,20 +24,20 @@ const Home = () => {
             <div className="col-lg-4 panel-pad-10">
               <div className="panel panel-default">
                 <h2 className="display-4 text-center">Links</h2>
-                <a
+                <Link
                   className="btn btn-secondary btn-lg btn-block"
-                  href="/projects"
+                  to="/projects"
                   role="button"
                 >
                   Projects
-                </a>
-                <a
+                </Link>
+                <Link
                   className="btn btn-secondary btn-lg btn-block"
-                  href="/contact"
+                  to="/contact"
                   role="button"
                 >
                   Contact Me
-                </a>
+                </Link>
                 <a
                   className="btn btn-secondary btn-lg btn-block"
                   href="https://github.com/freejonm"
