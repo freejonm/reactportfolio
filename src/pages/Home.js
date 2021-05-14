@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <main>
-        <Jumbotron imageBG="url(/assets/bluesky.jpg)"/>
+        <Jumbotron imageBG="url(./public/assets/bluesky.jpg)"/>
 
         <div className="container-fluid mt-0 mb-0">
           <div className="row">
